@@ -29,5 +29,7 @@ namespace MvcGuestBook.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<MvcGuestBook.Models.GuestBook> GuestBooks { get; set; }
     }
 }
