@@ -11,6 +11,9 @@ using System.Configuration;
 
 namespace MvcGuestBook.Controllers
 {
+    /// <summary>
+    /// 目前只是最简单的做了下，之前没有详细玩过mvc
+    /// </summary>
     public class GuestBookController : Controller
     {
         // GET: GuestBook
