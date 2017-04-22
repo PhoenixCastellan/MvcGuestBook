@@ -13,6 +13,7 @@ namespace MvcGuestBook.Controllers
 {
     /// <summary>
     /// 目前只是最简单的做了下，之前没有详细玩过mvc
+    /// 测试下git的使用
     /// </summary>
     public class GuestBookController : Controller
     {
